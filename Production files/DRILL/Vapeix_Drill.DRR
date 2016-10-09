@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Vapeix_mini_pcb.PcbDoc   2016-10-09  19:29:11
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Vapeix_Drill-RoundHoles.TXT
+ASCII SlotHoles File : Vapeix_Drill-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             299       PTH        515.07mm (20.28inch)
+T2      0.3mm (12mil)                                             Round             17        PTH        55.99mm (2.20inch)
+T3      0.33mm (13mil)                                            Round             16        PTH        18.00mm (0.71inch)
+T4      0.5mm (20mil)                                             Slot              2         PTH        14.64mm (0.58inch)
+T5      0.6mm (24mil)                                             Round             2         PTH        1.59mm (0.06inch)
+T6      0.9mm (35mil)                                             Round             2         PTH        4.00mm (0.16inch)
+T7      1mm (39mil)                                               Round             16        PTH        130.46mm (5.14inch)
+T8      1.2mm (47mil)                                             Round             4         PTH        136.46mm (5.37inch)
+T9      2.5mm (98mil)                                             Round             2         PTH        33.27mm (1.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              360
+
+Total Processing Time (hh:mm:ss) : 00:00:00
