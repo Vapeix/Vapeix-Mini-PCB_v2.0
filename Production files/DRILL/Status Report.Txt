@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:29:11 On 2016-10-09
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Vapeix_mini_pcb.PcbDoc]
+   Generated File[Vapeix_Drill-RoundHoles.TXT]
+   Generated File[Vapeix_Drill-SlotHoles.TXT]
+   Generated File[Vapeix_Drill.LDP]
+   Generated File[Vapeix_Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:29:12 On 2016-10-09
